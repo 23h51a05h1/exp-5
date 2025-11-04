@@ -1,5 +1,5 @@
 class hell{
     public static void main(String args[]){
-        Syste.out.println("Hello word raamu");
+        System.out.println("Hello word raamu");
     }
 }
